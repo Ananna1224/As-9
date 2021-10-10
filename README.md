@@ -7,3 +7,4 @@ Highlights:
    3. User Can't visit Admins Pages but can see the profile.
    4. This site made with Html, Css, Js, Bootstrap, React js , Hardwork & Smile.
    5. Live Site Link :  http://127.0.0.1:5500/public/index.html
+   6. Responsive Website.
